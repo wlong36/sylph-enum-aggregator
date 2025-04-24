@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package proto;
+
+option java_package = "proto";
+option java_multiple_files = true;
+
+enum JobType {
+    // Default unspecified value added by processor.
+    JOBTYPE_UNSPECIFIED = 0;
+
+    // 工作1
+    JobOne = 1;
+
+}
+

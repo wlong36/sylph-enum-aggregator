@@ -8,4 +8,6 @@ dependencies {
 
     // https://mvnrepository.com/artifact/com.squareup/javapoet
     implementation("com.squareup:javapoet:1.13.0")
+    // https://mvnrepository.com/artifact/org.freemarker/freemarker
+    implementation("org.freemarker:freemarker:2.3.34")
 }

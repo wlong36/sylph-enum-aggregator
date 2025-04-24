@@ -1,6 +1,6 @@
 package io.github.wlong36.sylph.enumaggregator.test;
 
-import io.github.wlong36.sylph.enumaggregator.generated.ConditionType;
+import proto.ConditionType;
 
 /**
  * 条件处理接口

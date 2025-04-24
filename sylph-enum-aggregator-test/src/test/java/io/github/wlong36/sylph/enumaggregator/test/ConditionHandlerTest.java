@@ -1,8 +1,8 @@
 package io.github.wlong36.sylph.enumaggregator.test;
 
-import io.github.wlong36.sylph.enumaggregator.generated.ConditionType;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import proto.ConditionType;
 
 import java.util.Map;
 
